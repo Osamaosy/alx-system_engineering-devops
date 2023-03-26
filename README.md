@@ -1,1 +1,1 @@
-shel basic Readme
+0x01. Shell, permissions
